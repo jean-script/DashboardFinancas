@@ -1,5 +1,10 @@
 # Dashboard
 
+
+<hr/>
+
+![App Screenshot](https://github.com/jean-script/DashboardFinancas/blob/main/assets/imgDashboard.PNG?raw=true)
+
 A new Flutter project.
 
 ## Getting Started
